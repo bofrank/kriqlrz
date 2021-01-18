@@ -5,7 +5,9 @@
     </div>
     <button v-on:click="count++">You clicked me {{ count }} times.</button>
     <br />
+    <!--
     <button v-on:click="getData">Get Data</button>
+    -->
     <div>
       Data = {{ document }}
     </div>
